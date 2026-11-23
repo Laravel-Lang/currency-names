@@ -7,11 +7,11 @@
 
 ## Documentation
 
-See the [documentation](https://laravel-lang.com/20.x/locales#look-up-locale-country-and-currency-names) for detailed installation.
+See the [documentation](https://laravel-lang.com/locales#look-up-locale-country-and-currency-names) for detailed installation.
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://laravel-lang.com/20.x/contributing) for details.
+Please see [CONTRIBUTING](https://laravel-lang.com/contributing) for details.
 
 ## Support Us
 
@@ -19,4 +19,4 @@ Please see [CONTRIBUTING](https://laravel-lang.com/20.x/contributing) for detail
 
 ## License
 
-This package is licensed under the [MIT License](https://laravel-lang.com/20.x/license).
+This package is licensed under the [MIT License](https://laravel-lang.com/license).
