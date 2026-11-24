@@ -1,21 +1,22 @@
-# Currency Names
+# Laravel-Lang: Currency Names
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://banners.beyondco.de/Currency%20Names.png?pattern=topography&style=style_2&fontSize=100px&md=1&showWatermark=1&icon=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg&theme=dark&description=by+Laravel+Lang&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg">
-    <img src="https://banners.beyondco.de/Currency%20Names.png?pattern=topography&style=style_2&fontSize=100px&md=1&showWatermark=1&icon=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg&theme=light&description=by+Laravel+Lang&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg" alt="Currency Names">
-</picture>
+<p align="center">
+    <a href="https://laravel-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/Laravel-Lang/art/main/socials/hero.png"></a>
+</p>
+
+[![Stable Version](https://img.shields.io/github/v/release/laravel-lang/currency-names?label=stable&style=flat-square)](https://packagist.org/packages/laravel-lang/currency-names)
+[![Total Downloads](https://img.shields.io/packagist/dt/laravel-lang/currency-names.svg?style=flat-square)](https://packagist.org/packages/laravel-lang/currency-names)
+[![Github Workflow Status](https://img.shields.io/github/actions/workflow/status/laravel-lang/mona/tests.yml?style=flat-square)](https://github.com/Laravel-Lang/mona)
+[![License](https://img.shields.io/packagist/l/laravel-lang/currency-names.svg?style=flat-square)](https://laravel-lang.com/license)
+
 
 ## Documentation
 
-See the [documentation](https://laravel-lang.com/locales#look-up-locale-country-and-currency-names) for detailed installation.
+See the [documentation](https://laravel-lang.com/start) for detailed information.
 
 ## Contributing
 
 Please see [CONTRIBUTING](https://laravel-lang.com/contributing) for details.
-
-## Support Us
-
-❤️ Laravel Lang? Please consider supporting our collective on [Boosty](https://boosty.to/laravel-lang).
 
 ## License
 
